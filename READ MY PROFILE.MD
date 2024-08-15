@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frankntaro
+- 👋 Hi, I’m frank ntaro
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning .different programming language..
 - 💞️ I’m looking to collaborate on .team dealing with systems designing..
